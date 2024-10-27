@@ -1,0 +1,18 @@
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#FF6F20'  # Naranja suave y elegante para elementos interactivos
+
+# Background color for the main content area
+backgroundColor = '#001F3F'  # Azul muy oscuro, serio y profesional
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = '#003366'  # Azul oscuro para la barra lateral
+
+# Color used for almost all text
+textColor = '#FFFFFF'  # Blanco para el texto, que combina bien con el fondo azul oscuro
+
+# Font family for all text in the app, except code blocks
+font = "sans-serif"  # Sans-serif para un aspecto profesional y moderno
+
+
